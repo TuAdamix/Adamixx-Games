@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Adamixx
+- 👋 Hi, I’m @TuAdamix
 - 👀 I’m interested of Computer Games
 - 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on Weekend
-- 📫 Please Help Me To Reach 200 Subs
+- 📫 Please Help Me To Reach 1000 Subs
 
 <!---
 Adamixx-Games/Adamixx-Games is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
